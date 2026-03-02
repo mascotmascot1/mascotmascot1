@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am a Backend Developer focused on **Go**, system programming, and building high-performance algorithms. I am dedicated to writing clean, simple, and efficient code.
+I am a Backend Developer working with **Go** and system programming. I enjoy solving technical problems and focusing on code clarity and performance.
 
 ## Featured Projects
 
