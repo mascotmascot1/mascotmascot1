@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 
 
 I am a Backend Developer working with **Go** and system programming. I enjoy solving technical problems and focusing on code clarity and performance.
 
