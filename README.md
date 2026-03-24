@@ -10,5 +10,12 @@ I am a Backend Developer working with **Go** and system programming. I enjoy sol
 4. **vagrant-wireguard-iac-lab** – Automated IaC deployment of a hardened 3-node Linux environment using Vagrant and Bash, featuring Zero-Touch Provisioning and WireGuard VPN.
 5. **fileserver** – A secure HTTP REST service for file transfers, implementing protection against Path Traversal (via `os.OpenRoot`) and memory exhaustion.
 
+## Testing & Best Practices
+
+While my featured projects focus on system architecture and performance, I also place a strong emphasis on code reliability and testing. You can check out these repositories to see my approaches to API and Database testing:
+
+1. **go-parcel-tracker** – A parcel management service showcasing **integration testing**. It utilizes an **in-memory SQLite database** (`:memory:`) and the `testify` suite to validate CRUD operations in complete isolation.
+2. **go-cafe-api-tests** – An HTTP service built to demonstrate API testing patterns. It uses `net/http/httptest` to mock HTTP request/response lifecycles, extensively testing query parameter parsing, routing, and negative scenarios.
+
 ## Connect with me
 * **Email:** rsheptytsky@gmail.com
