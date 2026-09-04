@@ -16,6 +16,3 @@ While my featured projects focus on system architecture and performance, I also 
 
 1. **[go-parcel-tracker](https://github.com/mascotmascot1/go-parcel-tracker)** – A parcel management service showcasing **integration testing**. It utilizes an **in-memory SQLite database** (`:memory:`) and the `testify` suite to validate CRUD operations in complete isolation.
 2. **[go-cafe-api-tests](https://github.com/mascotmascot1/go-cafe-api-tests)** – An HTTP service built to demonstrate API testing patterns. It uses `net/http/httptest` to mock HTTP request/response lifecycles, extensively testing query parameter parsing, routing, and negative scenarios.
-
-## Connect with me
-* **Email:** rsheptytsky@gmail.com
